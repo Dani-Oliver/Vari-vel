@@ -13,13 +13,12 @@ Estou em fazer de aprendizagem em Javascript
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?pin-username=danioliver&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=danioliver&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/apitop-langs-username=danioliver&layout=compact)](https//github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danioliver&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
-[img src='https://img.shields.iobadgeLinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'](www.linkedin.com/in/
-daniel-oliveira-a7144a261)
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30">(www.linkedin.com/in/daniel-oliveira-a7144a261)
