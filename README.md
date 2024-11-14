@@ -13,7 +13,7 @@ Estou em fazer de aprendizagem em Javascript
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?pinusername=danioliver&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?pin-username=danioliver&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
