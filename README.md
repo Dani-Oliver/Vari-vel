@@ -17,7 +17,7 @@ Estou em fazer de aprendizagem em Javascript
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/apitop-langsusername=danioliver&layout=compact)](https//github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/apitop-langs-username=danioliver&layout=compact)](https//github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
