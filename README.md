@@ -13,11 +13,11 @@ Estou em fazer de aprendizagem em Javascript
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.appapipinusername=danioliver&repo=variavel&theme=dark)](https://github.comanuraghazragithub-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api?pinusername=danioliver&repo=variavel&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.appapitop-langsusername=danioliver&layout=compact)](https//github.comanuraghazragithub-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/apitop-langsusername=danioliver&layout=compact)](https//github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
